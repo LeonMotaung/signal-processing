@@ -1,0 +1,4 @@
+MSE (noisy): 0.314712
+MSE (TCG): 4.282700  Improvement: 0.073485x
+MSE (MA): 1.012756  Improvement: 0.310748x
+MSE (Wavelet): 0.758553  Improvement: 0.414885x
